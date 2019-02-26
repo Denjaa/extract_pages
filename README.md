@@ -1,7 +1,6 @@
 # extract_pages
 
-People are looking for a script that would be able to read int Portable Document File (PDF) as input and extract specific pages from it.
-The extra_pages script was developed to read in document from the user and give it an individual page number or a list of page numbers that need to be extracted.
+The following script is designed specifically to extra an individual page or list of pages from a Portable Document File (PDF). This script will help people to have a PDF document that will include only pages they need. For example person needs only page 20 from 200 long document it can be easily achieve using this script.
 
 To run script:
 1. Download script into a directory where the input exists
