@@ -8,3 +8,7 @@ To run script:
 2. Run command python extract_pages.py document.pdf
 3. When script will activate it will ask you to provide an input such as 12 (individual page number) or 12, 23, 231 (list of page numbers)
 
+Requirements:
+  - Python 3.6.1
+  - PyPDF2 1.26.0
+  - Argparse
